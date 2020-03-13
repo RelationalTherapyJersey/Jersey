@@ -1839,17 +1839,6 @@ body {
   color: #ffffff;
   text-align: center;
 }
-.cid-rsffaR88vf {
-  padding-top: 75px;
-  padding-bottom: 90px;
-  background-color: #f7ded6;
-}
-.cid-rsffaR88vf .mbr-text {
-  color: #767676;
-}
-.cid-rsffaR88vf .mbr-text p {
-  background: #ffffff;
-}
 .cid-rrS2IDIzXE {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1876,6 +1865,21 @@ body {
   .cid-rrS2IDIzXE .media-content {
     padding-top: 1.5rem !important;
   }
+}
+.cid-rT8MFREEvd {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #565d5e;
+}
+.cid-rT8MFREEvd .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-rT8MFREEvd H2 {
+  color: #ffffff;
+}
+.cid-rT8MFREEvd .mbr-section-subtitle DIV {
+  color: #ffffff;
 }
 .cid-rtgbvmv52B {
   padding-top: 15px;
