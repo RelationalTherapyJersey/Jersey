@@ -1822,6 +1822,18 @@ body {
 .cid-r1QxuU0bS9 .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-ssRzQ3KIMK {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #28546c, #073b4c);
+}
+.cid-ssRzQ3KIMK .mbr-iconfont-social {
+  font-size: 32px;
+  color: #b2ccd2;
+}
+.cid-ssRzQ3KIMK .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rsfh9vlPrE {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -3167,7 +3179,7 @@ body {
   border-radius: 3px;
 }
 .cid-rrHAck81E7 .google-map {
-  height: 15rem;
+  height: 22rem;
   position: relative;
 }
 .cid-rrHAck81E7 .google-map iframe {
